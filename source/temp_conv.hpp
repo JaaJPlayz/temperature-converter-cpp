@@ -2,7 +2,7 @@
 
 static void temp_menu()
 {
-  std::cout << "[c] Celcius\n";
+  std::cout << "[c] Celsius\n";
   std::cout << "[f] Fahrenheit\n";
   std::cout << "[k] Kelvin\n";
 }
